@@ -5,7 +5,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "angular": "1.4.0",
-    "nodegit": "^0.17.0"
+    "any-promise": "^1.1.0",
+    "debug": "^2.2.0",
+    "joi": "^6.5.0",
+    "node-uuid": "^1.4.3",
+    "rainbird-neo4j": "^0.4.3",
+    "thenify-all": "^1.6.0"
   }
 }
